@@ -92,9 +92,9 @@
 	    <version>1.1.9</version>
 	    <configuration>
 	        <targetClasses>
-	            <param>com.github.mustachejava.*</param>
-	             <param>com.twitter.mustache.*</param>
-	             <param>com.github.spullara.mustache.*</param>
+	            <param>com.github.*</param>
+	             <param>com.twitter.sampullara.*</param>
+	             <param>mustachejava.*</param>
 	        </targetClasses>
 		<failWhenNoMutations>false</failWhenNoMutations>
 	            <outputFormats>
